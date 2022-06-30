@@ -1,0 +1,15 @@
+C:\Users\kc2us\source\repos\StoryTeller\StoryTeller\obj\Debug\net6.0\StoryTeller.csproj.AssemblyReference.cache
+C:\Users\kc2us\source\repos\StoryTeller\StoryTeller\obj\Debug\net6.0\StoryTeller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kc2us\source\repos\StoryTeller\StoryTeller\obj\Debug\net6.0\StoryTeller.AssemblyInfoInputs.cache
+C:\Users\kc2us\source\repos\StoryTeller\StoryTeller\obj\Debug\net6.0\StoryTeller.AssemblyInfo.cs
+C:\Users\kc2us\source\repos\StoryTeller\StoryTeller\obj\Debug\net6.0\StoryTeller.csproj.CoreCompileInputs.cache
+C:\Users\kc2us\source\repos\StoryTeller\StoryTeller\bin\Debug\net6.0\StoryTeller.exe
+C:\Users\kc2us\source\repos\StoryTeller\StoryTeller\bin\Debug\net6.0\StoryTeller.deps.json
+C:\Users\kc2us\source\repos\StoryTeller\StoryTeller\bin\Debug\net6.0\StoryTeller.runtimeconfig.json
+C:\Users\kc2us\source\repos\StoryTeller\StoryTeller\bin\Debug\net6.0\StoryTeller.dll
+C:\Users\kc2us\source\repos\StoryTeller\StoryTeller\bin\Debug\net6.0\StoryTeller.pdb
+C:\Users\kc2us\source\repos\StoryTeller\StoryTeller\obj\Debug\net6.0\StoryTeller.dll
+C:\Users\kc2us\source\repos\StoryTeller\StoryTeller\obj\Debug\net6.0\refint\StoryTeller.dll
+C:\Users\kc2us\source\repos\StoryTeller\StoryTeller\obj\Debug\net6.0\StoryTeller.pdb
+C:\Users\kc2us\source\repos\StoryTeller\StoryTeller\obj\Debug\net6.0\StoryTeller.genruntimeconfig.cache
+C:\Users\kc2us\source\repos\StoryTeller\StoryTeller\obj\Debug\net6.0\ref\StoryTeller.dll
